@@ -4,9 +4,9 @@
 
 
 
-A nrf52840 based devboard made for custom keyboard. This board has a onboard antenna and USB type-C connector. Exposed pads for 14 columns and 5 rows. Also comes with SWD interface to flash the board and battery powered & charging support. 
+A nrf52840 based devboard made for custom handwired keyboard. This board has a onboard antenna and USB type-C connector. Exposed pads for 14 columns and 5 rows. Also comes with SWD interface to flash the board and battery powered & charging support. 
 
-This board is an end product of my keyboard. My PCB for the (xd keyboard) never arrived. So I made this development to finish my keyboard build
+This board is an end product of my keyboard. My PCB for the (xd keyboard) never arrived. So I made this development board to finish my keyboard build. With the help of the column and rows exposed pad, I will handwire my keyboard. The column pad orientation may be not organized that is because it helps me handroute my keyboard according to my key matrix.
 
 
 ## Schematics
@@ -39,9 +39,9 @@ I am not very good at renders. But still tried fusion 360 to render some image. 
 
 From my experience with PCB, I think I cannot build the PCB on my own. So, I will probably take assembly service from local vendors or hopefully in Fallout (China)
 
-And for the Firmware, I already built the firmware for my keyboard. Both nrf52 firmware and ZMK firmware. The nrf52 firmware is a hex file. So, it requires a ST-Link to flash that is why I have open SWD interface to flash it. 
+And for the Firmware, I already built the firmware for my keyboard. Both nrf52 firmware and ZMK firmware. The nrf52 firmware is a hex file. So, it requires a ST-Link to flash that is why I have open SWD interface to flash it and also included the hex file for the board. So, the work is 80% done. You can follow some ST-Link tutorial according to your understanding.
 
-For the zmk firmware, once you flashed the hex file, you can upload the zmk firmware with USB. To see the whole zmk firmware, please do visit my [ZMK repo](https://github.com/samdoes-stuff/zmk-config) to get a idea about my keymapping and firmware build in depth.
+For the zmk firmware, once you flashed the hex file, you can upload the zmk firmware with USB. To see the whole zmk firmware, please do visit my [ZMK repo](https://github.com/samdoes-stuff/zmk-config) to get a idea about my keymapping and firmware build in depth. But I have already given the uf2 file in the firmware section so that would be very easy if you already workes with xiao rp2040 or the hackpad kit.
 
 
 ## BOM
