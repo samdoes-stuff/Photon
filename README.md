@@ -41,7 +41,7 @@ From my experience with PCB, I think I cannot build the PCB on my own. So, I wil
 
 And for the Firmware, I already built the firmware for my keyboard. Both nrf52 firmware and ZMK firmware. The nrf52 firmware is a hex file. So, it requires a ST-Link to flash that is why I have open SWD interface to flash it. 
 
-For the zmk firmware, once you flashed the hex file, you can upload the zmk firmware with USB. To see the whole zmk firmware, please do visit my (ZMK repo)[https://github.com/samdoes-stuff/zmk-config] to get a idea about my keymapping and firmware build in depth.
+For the zmk firmware, once you flashed the hex file, you can upload the zmk firmware with USB. To see the whole zmk firmware, please do visit my [ZMK repo](https://github.com/samdoes-stuff/zmk-config) to get a idea about my keymapping and firmware build in depth.
 
 
 ## BOM
