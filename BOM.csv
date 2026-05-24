@@ -1,1 +1,39 @@
-
+Index,LCSC#,MPN,Manufacturer,Package,,,,Quantity,MOQ,,Unit Price($),Extended Price($),Product Link
+1,C23733,CL05A475MP5NRNC,Samsung Electro-Mechanics,402,,,,50,50,,0.0053,0.27,https://www.lcsc.com/product-detail/C23733.html
+2,C52923,CL05A105KA5NQNC,Samsung Electro-Mechanics,402,,,,100,100,,0.0033,0.33,https://www.lcsc.com/product-detail/C52923.html
+3,C272875,CC0402KRX7R9BB473,YAGEO,402,,,,100,100,,0.0024,0.24,https://www.lcsc.com/product-detail/C272875.html
+4,C1523,0402B102K500NT,FH,402,,,,100,100,,0.0011,0.11,https://www.lcsc.com/product-detail/C1523.html
+5,C1546,0402CG101J500NT,FH,402,,,,100,100,,0.0011,0.11,https://www.lcsc.com/product-detail/C1546.html
+6,C307331,CL05B104KB54PNC,Samsung Electro-Mechanics,402,,,,100,100,,0.0041,0.41,https://www.lcsc.com/product-detail/C307331.html
+7,C1548,0402CG150J500NT,FH,402,,,,100,100,,0.001,0.1,https://www.lcsc.com/product-detail/C1548.html
+8,C1552,0402CG1R5C500NT,FH,402,,,,100,100,,0.0012,0.12,https://www.lcsc.com/product-detail/C1552.html
+9,C1550,0402CG1R0C500NT,FH,402,,,,100,100,,0.0012,0.12,https://www.lcsc.com/product-detail/C1550.html
+10,C15195,CL05B103KB5NNNC,Samsung Electro-Mechanics,402,,,,100,100,,0.0014,0.14,https://www.lcsc.com/product-detail/C15195.html
+11,C72038,19-213/Y2C-CQ2R2L/3T(CY),EVERLIGHT,603,,,,30,30,,0.021,0.63,https://www.lcsc.com/product-detail/C72038.html
+12,C8598,B5819W SL,JSCJ,SOD-123,,,,20,20,,0.023,0.46,https://www.lcsc.com/product-detail/C8598.html
+13,C2290,KT-0603W,Hubei KENTO Elec,603,,,,50,50,,0.0108,0.54,https://www.lcsc.com/product-detail/C2290.html
+14,C7420320,1N4148WT,R+O,SOD-523,,,,100,50,,0.0111,1.11,https://www.lcsc.com/product-detail/C7420320.html
+15,C76763,MLG1005S15NJT000,TDK,402,,,,10,10,,0.0065,0.07,https://www.lcsc.com/product-detail/C76763.html
+16,C76732,MLF1608E100KTD00,TDK,603,,,,10,10,,0.0417,0.38,https://www.lcsc.com/product-detail/C76732.html
+17,C76775,MLG1005S3N9BT000,TDK,402,,,,10,10,,0.0083,0.08,https://www.lcsc.com/product-detail/C76775.html
+18,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,,,5,5,,0.1762,0.89,https://www.lcsc.com/product-detail/C165948.html
+19,C17168,0402WGF0000TCE,UNI-ROYAL,402,,,,100,100,,0.0006,0.06,https://www.lcsc.com/product-detail/C17168.html
+20,C25744,0402WGF1002TCE,UNI-ROYAL,402,,,,100,100,,0.0007,0.07,https://www.lcsc.com/product-detail/C25744.html
+21,C13167,0603WAF2701T5E,UNI-ROYAL,603,,,,100,100,,0.0012,0.12,https://www.lcsc.com/product-detail/C13167.html
+22,C25867,0402WGF1501TCE,UNI-ROYAL,402,,,,100,100,,0.0007,0.07,https://www.lcsc.com/product-detail/C25867.html
+23,C25905,0402WGF5101TCE,UNI-ROYAL,402,,,,100,100,,0.0006,0.06,https://www.lcsc.com/product-detail/C25905.html
+24,C22976,0603WAF2004T5E,UNI-ROYAL,603,,,,100,100,,0.0013,0.13,https://www.lcsc.com/product-detail/C22976.html
+25,C26082,0402WGF1005TCE,UNI-ROYAL,402,,,,100,100,,0.0006,0.06,https://www.lcsc.com/product-detail/C26082.html
+26,C26083,0402WGF1004TCE,UNI-ROYAL,402,,,,100,100,,0.0007,0.07,https://www.lcsc.com/product-detail/C26083.html
+27,C318884,TS-1187A-B-A-B,XKB Connection,"SMD-4P,5.1x5.1mm",,,,20,20,,0.0195,0.37,https://www.lcsc.com/product-detail/C318884.html
+28,C202311,BQ21040DBVR,TI,SOT-23-6,,,,5,5,,0.2758,1.39,https://www.lcsc.com/product-detail/C202311.html
+29,C190794,NRF52840-QIAA-R,NORDIC,AQFN-73-EP(7x7),,,,1,1,,4.5064,4.49,https://www.lcsc.com/product-detail/C190794.html
+30,C94372,ESDR0502NMUTAG,onsemi,UDFN-6(1x1.2),,,,5,5,,0.2563,1.38,https://www.lcsc.com/product-detail/C94372.html
+31,C99009,X1A0000610006,EPSON,SMD2012-2P,,,,5,5,,0.2058,1.03,https://www.lcsc.com/product-detail/C99009.html
+32,C2965584,XL7EL89COI-111YLC-32M,YXC Crystal Oscillators,SMD2016-4P,,,,10,10,,0.0747,0.75,https://www.lcsc.com/product-detail/C2965584.html
+33,,ST-Link V2 is needed for flashing the board,,,,,,1,1,,0,0,I don't jave one but thinking about making one
+34,C42393296,,Single Conductor HookUp Wire,,,,,4,50,,$0.01 ,$0.48 ,https://www.lcsc.com/product-detail/C42393296.html
+35,,Phillips 5mm Flat headed M2 screw,,,,,,2,2,,0,0,I have some for holding the board
+36,,160 mAH 20x20x4 mm 3.7V battery,,,,,,1,1,,0,0,I have one for my keyboard
+,,,,,,,,,,,,,
+,,,,,,,,Total,16.64,,,,
