@@ -29,7 +29,7 @@ I had to reroute the PCB different from my keyboard because component placement 
 
 ## Renders
 
-I am not very good at renders. But still tried with fusion 360 to render some image. Though It did not turn out the very best, I promise to learn blender to render more realistic things.
+I am not very good at renders. But still tried fusion 360 to render some image. Though It did not turn out the very best, I promise to learn blender to render more realistic things.
 
 <img width="854" height="480" alt="Front SIde Render" src="https://github.com/user-attachments/assets/94da1a19-7eaf-40c7-8225-9cf72adc4740" />
 
@@ -38,4 +38,4 @@ I am not very good at renders. But still tried with fusion 360 to render some im
 
 ## BOM
 
-I already have the components from my keyboard build. Still the prices and the links of the component is given in BOM.csv 
+I already have the components from my keyboard build. Still the prices and the links of the components are given in BOM.csv 
