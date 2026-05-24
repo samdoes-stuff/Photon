@@ -35,6 +35,14 @@ I am not very good at renders. But still tried fusion 360 to render some image. 
 
 <img width="1600" height="589" alt="Backside Render" src="https://github.com/user-attachments/assets/6ad9eb9f-c98f-4dff-a192-7ad82e32d8ac" />
 
+## Firmware & Build
+
+From my experience with PCB, I think I cannot build the PCB on my own. So, I will probably take assembly service from local vendors or hopefully in Fallout (China)
+
+And for the Firmware, I already built the firmware for my keyboard. Both nrf52 firmware and ZMK firmware. The nrf52 firmware is a hex file. So, it requires a ST-Link to flash that is why I have open SWD interface to flash it. 
+
+For the zmk firmware, once you flashed the hex file, you can upload the zmk firmware with USB. To see the whole zmk firmware, please do visit my (ZMK repo) [https://github.com/samdoes-stuff/zmk-config] to get a idea about my keymapping and firmware build in depth.
+
 
 ## BOM
 
