@@ -1,6 +1,8 @@
 ## PHOTON
 
-<img width="6379" height="9779" alt="PHOTON_page-0001" src="https://github.com/user-attachments/assets/707691ec-f433-4154-8b35-be0e66fe1cd1" />
+<img width="6379" height="9779" alt="PHOTON_page-0001_compressed" src="https://github.com/user-attachments/assets/706f9f75-7e87-4973-bcf9-f61b399a5b78" />
+
+
 
 
 
