@@ -15,7 +15,8 @@ This board is an end product of my keyboard. My PCB for the (xd keyboard) never 
 
 For reference, I used my keyboard schematics to design my schematics. Whole schematics and PCB were made in Easyeda Pro.
 
-<img width="4524" height="3024" alt="SCH_Schematic1_2026-05-24_page-0001" src="https://github.com/user-attachments/assets/fdfb6461-a3cd-453c-9ebd-04e22f67f40a" />
+<img width="1023" height="686" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/52d1302d-a292-42d6-832a-7856ce9c4840" />
+
 
 
 ## PCB
